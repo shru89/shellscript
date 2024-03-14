@@ -1,7 +1,7 @@
 
 #!/bin/bash
 #sample file
-name="shruthi dinesh"
+#name="shruthi dinesh"
 echo -n "enter your name: "
 read name
 echo -n "enter your city: "
